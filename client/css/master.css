@@ -208,6 +208,9 @@ body{
 .machine-wrap .machine-back{
 	animation:upDown .8s linear infinite;
 }
+#work{
+	text-align: center;
+}
 @keyframes moveRoad{
 	0%{
 		right:-40px;
